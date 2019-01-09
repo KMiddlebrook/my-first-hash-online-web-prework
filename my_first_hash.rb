@@ -1,4 +1,5 @@
 def my_hash
+  your_hash  
   "name" => "Kaitlyn"
   "age" => 25
   "favorite_color" => "green"
@@ -6,7 +7,7 @@ end
 
 
 def shipping_manifest
-  "the_manifest"
+  "the_manifest" =
 
 
 end
