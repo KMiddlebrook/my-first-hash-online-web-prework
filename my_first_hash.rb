@@ -1,15 +1,17 @@
 def my_hash
-  your_hash ={ 
+  your_hash = { 
   "name" => "Kaitlyn"
   "age" => 25
-  "favorite_color" => "green"}
+  "favorite color" => "green"}
 end
 
 
 def shipping_manifest
-  "the_manifest" =
-
-
+  the_manifest = {
+    "whale bone corsets" => 5
+    "porcelain vases" => 2
+    "oil paintings" => 3
+  }
 end
 
 def retrieval
