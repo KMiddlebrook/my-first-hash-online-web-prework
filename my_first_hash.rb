@@ -1,8 +1,8 @@
 def my_hash
-  your_hash  
+  your_hash ={ 
   "name" => "Kaitlyn"
   "age" => 25
-  "favorite_color" => "green"
+  "favorite_color" => "green"}
 end
 
 
